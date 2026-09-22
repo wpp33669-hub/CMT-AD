@@ -14,11 +14,3 @@ The project can be run using **PyCharm** or directly from the command line.
 
 Please install the required dependencies before running the code.
 
-## Usage
-
-The complete workflow consists of the following steps.
-
-### 1. Data Preprocessing
-
-```bash
-python main.py preprocess
