@@ -1,0 +1,4 @@
+DEC 3/10: loss=0.409442 accuracy=0.9687 precision=0.9687 recall=1.0000 f1=0.9841
+Final test: {'accuracy': 0.9739, 'precision': 0.9739, 'recall': 1.0, 'f1': 0.9868}
+Final test: {'accuracy': 0.9707, 'precision': 0.9707, 'recall': 1.0, 'f1': 0.9851}
+
